@@ -1,0 +1,8 @@
+POST http://localhost:5000/api/v1/keahlian 
+Content-Type: application/json
+
+{
+    "data": "Javascript",
+    "description": "Mulai dari tahun 2022",
+    "value": 75
+}
